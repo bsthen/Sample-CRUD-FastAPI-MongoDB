@@ -10,8 +10,6 @@ Using sample to understand how to use FastAPI and MongoDB.
 
 ```python3 -m venv env``` Or looking for install virtual envirometns [link here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
 
-```pip install -r requirements.txt```
-
 ```source env/bin/activate``` For linux or macOS
 
 ```\env\Scripts\activate.bat``` For windows
