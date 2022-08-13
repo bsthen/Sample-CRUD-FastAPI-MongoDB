@@ -24,4 +24,4 @@ Open http://localhost:8000/docs/
 
 ## Database
 
-please copy sample.env and rename it to .env
+please copy sample.env and rename it to .env and replace your mongodb connection url.
