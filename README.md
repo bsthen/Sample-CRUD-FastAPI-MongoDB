@@ -7,7 +7,7 @@ Using this sample to understand how to connect FastAPI with MongoDB.
 ## Installations
 
 ```sh
-git clone https://github.com/bsthen/sample_crud_fastapi-mongodb.git && cd sample_crud_fastapi-mongodb
+git clone https://github.com/bsthen/Sample-CRUD-FastAPI-MongoDB.git && cd sample_crud_fastapi-mongodb
 ```
 
 Create a virtual environment:
