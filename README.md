@@ -1,8 +1,8 @@
 ### Sample CRUD FastAPI with MongoDB ###
 
 ## Introduction
-We are going to build a CRUD application with FastAPI and MongoDB.
-Using sample to understand how to use FastAPI and MongoDB.
+I'm going to build a sample CRUD with FastAPI and MongoDB.
+Using this sample to understand how to connect FastAPI with MongoDB.
 
 ## Installations
 
