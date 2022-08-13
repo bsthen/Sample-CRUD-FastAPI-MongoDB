@@ -6,9 +6,13 @@ Using this sample to understand how to connect FastAPI with MongoDB.
 
 ## Installations
 
-```git clone https://github.com/bsthen/sample_crud_fastapi-mongodb.git && cd sample_crud_fastapi-mongodb```
+```sh
+git clone https://github.com/bsthen/sample_crud_fastapi-mongodb.git && cd sample_crud_fastapi-mongodb
+```
 
-```python3 -m venv env``` Or looking for install virtual envirometns [link here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
+```sh
+python3 -m venv env
+``` Or looking for install virtual envirometns [link here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
 
 ```source env/bin/activate``` For linux or macOS
 
