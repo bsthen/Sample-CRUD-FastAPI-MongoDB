@@ -10,6 +10,7 @@ Using this sample to understand how to connect FastAPI with MongoDB.
 git clone https://github.com/bsthen/sample_crud_fastapi-mongodb.git && cd sample_crud_fastapi-mongodb
 ```
 
+Create a virtual environment:
 ```sh
 python3 -m venv env
 ``` 
