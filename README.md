@@ -1,4 +1,4 @@
-### Sample CRUD FastAPI with MongoDB ###
+# Sample CRUD FastAPI with MongoDB #
 
 ## Introduction
 I'm going to build a sample CRUD with FastAPI and MongoDB.
