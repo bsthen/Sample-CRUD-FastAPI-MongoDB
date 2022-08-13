@@ -5,8 +5,6 @@ import os
 
 load_dotenv()
 
-
-
 app = FastAPI()
 connect = MongoClient(os.getenv('MONGODB_URL'))
 
