@@ -6,7 +6,7 @@ Using sample to understand how to use FastAPI and MongoDB.
 
 ## Installations
 
-```git clone ```
+```git clone https://github.com/bsthen/sample_crud_fastapi-mongodb.git && cd sample_crud_fastapi-mongodb```
 
 ```python3 -m venv env``` Or looking for install virtual envirometns [link here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
 
