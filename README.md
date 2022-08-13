@@ -16,16 +16,17 @@ python3 -m venv env
 ``` 
 Or looking for install virtual envirometns [link here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
 
-For linux or macOS
+Activate ENV for Linux or macOS
 ```sh
 source env/bin/activate
-``` 
+```
+Or
 
-For windows
+Activate ENV for Windows
 ```sh
 \env\Scripts\activate.bat
 ``` 
-Install dependencies
+Install Dependencies
 ```sh
 pip3 install -r requirements.txt
 ```
