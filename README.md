@@ -12,17 +12,28 @@ git clone https://github.com/bsthen/sample_crud_fastapi-mongodb.git && cd sample
 
 ```sh
 python3 -m venv env
-``` Or looking for install virtual envirometns [link here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
+``` 
+Or looking for install virtual envirometns [link here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
 
-```source env/bin/activate``` For linux or macOS
+```sh
+source env/bin/activate
+``` 
+For linux or macOS
 
-```\env\Scripts\activate.bat``` For windows
+```sh
+\env\Scripts\activate.bat
+``` 
+For windows
 
-```pip3 install -r requirements.txt```
+```sh
+pip3 install -r requirements.txt
+```
 
 ## Running the application
 
-```uvicorn main:app --reload```
+```sh
+uvicorn main:app --reload
+```
 
 Open http://localhost:8000/docs/
 
