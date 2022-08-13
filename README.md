@@ -31,7 +31,7 @@ Install Dependencies
 pip3 install -r requirements.txt
 ```
 
-## Running the application
+## Run the application
 
 ```sh
 uvicorn main:app --reload
